@@ -1,3 +1,0 @@
-First I use the driver explanations to create a dictionary.
-I then use this dictionary to run an NBC classifier on the general reviews.
-Does not seem to perform very well.
